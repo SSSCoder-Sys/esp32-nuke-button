@@ -15,6 +15,11 @@ Each person has a desk unit: a big red button and a rotating LED siren, powered 
 
 No self-hosted server, no port forwarding, no paid infrastructure — every unit only makes *outbound* connections, so it works from behind any home or campus network.
 
+<p align="center">
+  <img src="images/one-button.jpg" width="45%" alt="Single nuke-button unit" />
+  <img src="images/three-buttons.jpg" width="45%" alt="All three nuke-button units together" />
+</p>
+
 ```
 Button pressed on Unit A
         │
