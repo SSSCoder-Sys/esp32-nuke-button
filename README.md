@@ -2,7 +2,7 @@
 
 A three-person emergency hotline. Press your button, and everyone's siren lights up — no matter where in the world you are.
 
-Built by a trio of friends spread across campuses (UGA/Georgia Tech), this project uses ESP32 microcontrollers and a free pub-sub notification service to sync a physical alarm across desks, cities, and networks.
+Built by a trio of friends who will be in different college campuses, this project uses ESP32 microcontrollers and a free pub-sub notification service to sync a physical alarm across desks, cities, and networks.
 
 ## How it works
 
